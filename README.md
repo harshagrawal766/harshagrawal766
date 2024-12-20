@@ -1,7 +1,7 @@
 # Hi, I'm Harsh! 👋  
 A passionate Data Analyst and Machine Learning enthusiast, always exploring new techniques to solve real-world problems through data.
 
-![Harsh's Profile Picture]([https://your-image-url.com/profile.jpg](https://www.pinterest.com/pin/38843615660313761/))
+![Harsh's Profile Picture](https://github.com/harshagrawal766/hasrhagrawal766/blob/main/386745.jpg)
 
 ### 🔍 **What I Do**  
 - **Data Science & Machine Learning:** Building models that unlock insights and drive business strategies.
