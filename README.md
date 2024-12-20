@@ -16,10 +16,9 @@ A passionate Data Analyst and Machine Learning enthusiast, always exploring new 
 - **Tools:** Jupyter, Git, Pandas, NumPy, Excel  
 
 ### 🌱 **Currently Working On**  
-- Machine learning models to predict customer behavior and optimize business strategies.
 - Exploring deep learning and natural language processing (NLP) for cutting-edge projects.
 
-![ML and AI Background](https://your-image-url.com/background.jpg)
+![ML and AI Background](https://github.com/harshagrawal766/hasrhagrawal766/blob/main/360_F_315373578_DIGbt8LID1kJpqHw04D4uzxKqVgT8TCB.jpg)
 
 ### 📈 **Let's Connect!**  
 I’m always excited to collaborate on machine learning and data science projects! Feel free to check out my repositories below to explore my projects, including predictive models, data analyses, and more.
